@@ -4,8 +4,9 @@ Wenn ich in eine neue Technologie, eine Programmiersprache oder einen Architektu
 ## [🔗 Hier geht es zur Suchmaschine](https://cse.google.com/cse?cx=ff8a44c8024bc6f20)
 
 ## 🎙 Eingeschlossene Podcasts
-* [INNOQ Podcast](https://www.innoq.com/de/podcast/)
 * [heise Developer: SoftwareArchitekTOUR](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
+* [INNOQ Podcast](https://www.innoq.com/de/podcast/)
+* [INNOQ Security Podcast](https://www.innoq.com/de/podcast/?channel=security)
 * [programmier.bar](https://www.programmier.bar/podcast)
 
 Für weitere Vorschläge gerne ein Issue erstellen :)
