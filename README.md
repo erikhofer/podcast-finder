@@ -8,5 +8,6 @@ Wenn ich in eine neue Technologie, eine Programmiersprache oder einen Architektu
 * [INNOQ Podcast](https://www.innoq.com/de/podcast/)
 * [INNOQ Security Podcast](https://www.innoq.com/de/podcast/?channel=security)
 * [programmier.bar](https://www.programmier.bar/podcast)
+* [Software Architektur im Stream](https://software-architektur.tv/podcast.html)
 
 Für weitere Vorschläge gerne ein Issue erstellen :)
